@@ -7,7 +7,7 @@
 - a point 예측값과 실제값<br/><br/>
 ![](img/1.png)<br/>
 
--  point 예측값과 실제값<br/><br/>
+- b point 예측값과 실제값<br/><br/>
 ![](img/2.png)<br/>
 
 - reprojection error<br/><br/>
